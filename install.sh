@@ -25,5 +25,5 @@ brew install watch
 brew install htop
 brew install zsh-autosuggestions
 
-echo '$(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh' >> ~/.zshrc
+echo 'source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh' >> ~/.zshrc
 source ~/.zshrc
