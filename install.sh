@@ -1,4 +1,5 @@
 brew cask install visual-studio-code
+brew cask install google-chrome
 brew cask install chromium
 brew cask install docker
 brew cask install github
