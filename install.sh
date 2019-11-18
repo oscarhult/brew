@@ -11,11 +11,14 @@ brew cask install slack
 brew cask install spotify
 brew cask install discord
 brew cask install rectangle
-brew cask install dotnet
+brew cask install dotnetb
+brew cask install azure-data-studio
+brew cask install microsoft-azure-storage-explorer
 
 brew tap homebrew/cask-fonts
 brew cask install font-fira-code
 
+brew install azure-cli
 brew install node
 brew install git
 brew install yarn
