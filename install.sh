@@ -35,5 +35,9 @@ brew install wget
 brew install yarn
 brew install zsh-autosuggestions
 
-echo 'source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh' >> ~/.zshrc
-source ~/.zshrc
+zshautosuggestions='source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh'
+
+if ! grep -q "$zshautosuggestions" ~/.zshrc; then
+    echo "$zshautosuggestions" >> ~/.zshrc
+    source ~/.zshrc
+fi
