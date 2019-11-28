@@ -1,3 +1,9 @@
+if test ! $(which brew); then
+    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+fi
+
+brew update
+
 brew cask install aerial
 brew cask install azure-data-studio
 brew cask install bitwarden
@@ -9,9 +15,13 @@ brew cask install firefox
 brew cask install github
 brew cask install google-chrome
 brew cask install hacker-menu
+brew cask install insomnia
+brew cask install istat-menus
 brew cask install java
+brew cask install kap
 brew cask install microsoft-azure-storage-explorer
 brew cask install mongodb-compass-community
+brew cask install ngrok
 brew cask install openemu
 brew cask install plex-media-player
 brew cask install postman
@@ -28,7 +38,9 @@ brew install azure-cli
 brew install git
 brew install go
 brew install htop
+brew install neofetch
 brew install node
+brew install python
 brew install qemu
 brew install watch
 brew install wget
@@ -41,3 +53,5 @@ if ! grep -q "$zshautosuggestions" ~/.zshrc; then
     echo "$zshautosuggestions" >> ~/.zshrc
     source ~/.zshrc
 fi
+
+brew cleanup
