@@ -6,6 +6,7 @@ brew update
 
 brew cask install aerial
 brew cask install azure-data-studio
+brew cask install balenaetcher
 brew cask install bitwarden
 brew cask install chromium
 brew cask install discord
