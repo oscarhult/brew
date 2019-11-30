@@ -16,7 +16,6 @@ brew cask install github
 brew cask install google-chrome
 brew cask install hacker-menu
 brew cask install insomnia
-brew cask install istat-menus
 brew cask install java
 brew cask install kap
 brew cask install microsoft-azure-storage-explorer
