@@ -14,6 +14,7 @@ brew cask install docker
 brew cask install dotnet
 brew cask install firefox
 brew cask install github
+brew cask install go2shell
 brew cask install google-chrome
 brew cask install hacker-menu
 brew cask install insomnia
