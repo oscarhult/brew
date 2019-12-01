@@ -38,6 +38,7 @@ brew install azure-cli
 brew install git
 brew install go
 brew install htop
+brew install httpie
 brew install neofetch
 brew install node
 brew install python
