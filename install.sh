@@ -15,6 +15,7 @@ brew cask install dotnet
 brew cask install firefox
 brew cask install github
 brew cask install google-chrome
+brew cask install google-drive-file-stream
 brew cask install hacker-menu
 brew cask install insomnia
 brew cask install java
