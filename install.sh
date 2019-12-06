@@ -16,6 +16,7 @@ brew cask install firefox
 brew cask install github
 brew cask install google-chrome
 brew cask install google-drive-file-stream
+brew cask install gpg-suite
 brew cask install hacker-menu
 brew cask install insomnia
 brew cask install java
@@ -38,6 +39,7 @@ brew cask install font-fira-code
 
 brew install azure-cli
 brew install git
+brew install gpg
 brew install go
 brew install htop
 brew install httpie
