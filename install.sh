@@ -20,6 +20,7 @@ brew cask install hacker-menu
 brew cask install insomnia
 brew cask install java
 brew cask install kap
+brew cask install keybase
 brew cask install microsoft-azure-storage-explorer
 brew cask install mongodb-compass-community
 brew cask install ngrok
