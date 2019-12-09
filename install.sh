@@ -18,6 +18,7 @@ brew cask install google-chrome
 brew cask install google-drive-file-stream
 brew cask install gpg-suite
 brew cask install hacker-menu
+brew cask install handbrake
 brew cask install insomnia
 brew cask install java
 brew cask install kap
