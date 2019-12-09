@@ -2,6 +2,7 @@ if test ! $(which brew); then
     ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 fi
 
+brew analytics off
 brew update
 
 brew cask install aerial
