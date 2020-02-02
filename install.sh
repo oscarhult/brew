@@ -26,6 +26,7 @@ brew cask install java
 brew cask install kap
 brew cask install keybase
 brew cask install microsoft-azure-storage-explorer
+brew cask install microsoft-edge
 brew cask install mongodb-compass-community
 brew cask install ngrok
 brew cask install openemu
