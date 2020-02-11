@@ -10,6 +10,8 @@ brew cask install azure-data-studio
 brew cask install balenaetcher
 brew cask install battle-net
 brew cask install bitwarden
+brew cask install blender
+brew cask install brooklyn
 brew cask install chromium
 brew cask install discord
 brew cask install docker
@@ -25,10 +27,15 @@ brew cask install insomnia
 brew cask install java
 brew cask install kap
 brew cask install keybase
+brew cask install keycastr
 brew cask install microsoft-azure-storage-explorer
 brew cask install microsoft-edge
+brew cask install microsoft-office
+brew cask install minecraft
+brew cask install mockoon
 brew cask install mongodb-compass-community
 brew cask install ngrok
+brew cask install obs
 brew cask install openemu
 brew cask install plex-media-player
 brew cask install postman
@@ -36,6 +43,8 @@ brew cask install rectangle
 brew cask install signal
 brew cask install slack
 brew cask install spotify
+brew cask install steam
+brew cask install visual-studio
 brew cask install visual-studio-code
 
 brew tap homebrew/cask-fonts
