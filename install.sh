@@ -25,6 +25,7 @@ brew cask install hacker-menu
 brew cask install handbrake
 brew cask install insomnia
 brew cask install java
+brew cask install joplin
 brew cask install kap
 brew cask install keybase
 brew cask install keycastr
