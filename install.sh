@@ -51,6 +51,9 @@ brew cask install visual-studio-code
 brew tap homebrew/cask-fonts
 brew cask install font-fira-code
 
+brew tap azure/functions
+brew install azure-functions-core-tools@3
+
 brew install azure-cli
 brew install git
 brew install gpg
@@ -75,3 +78,7 @@ fi
 
 brew upgrade
 brew cleanup
+
+npm install -g azurite
+
+curl -sSL https://dot.net/v1/dotnet-install.sh | bash
