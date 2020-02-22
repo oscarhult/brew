@@ -80,6 +80,3 @@ brew upgrade
 brew cleanup
 
 npm install -g azurite
-
-#curl -sSL https://dot.net/v1/dotnet-install.sh | bash
-#https://dotnet.microsoft.com/download/dotnet-core/3.1
