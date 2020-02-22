@@ -15,7 +15,7 @@ brew cask install brooklyn
 brew cask install chromium
 brew cask install discord
 brew cask install docker
-brew cask install dotnet
+brew cask install dotnet-sdk
 brew cask install firefox
 brew cask install github
 brew cask install google-chrome
