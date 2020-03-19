@@ -12,6 +12,7 @@ brew cask install battle-net
 brew cask install bitwarden
 brew cask install blender
 brew cask install brooklyn
+brew cask install calibre
 brew cask install chromium
 brew cask install discord
 brew cask install docker
@@ -80,3 +81,4 @@ brew upgrade
 brew cleanup
 
 npm install -g azurite
+npm install -g gitbook-cli
