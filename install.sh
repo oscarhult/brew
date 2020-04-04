@@ -30,6 +30,7 @@ brew cask install joplin
 brew cask install kap
 brew cask install keybase
 brew cask install keycastr
+brew cask install krita
 brew cask install microsoft-azure-storage-explorer
 brew cask install microsoft-edge
 brew cask install microsoft-office
