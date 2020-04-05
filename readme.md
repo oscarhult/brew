@@ -1,1 +1,1 @@
-`source <(curl -s https://raw.githubusercontent.com/oscarhult/brew/master/install.sh)`
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/oscarhult/brew/master/install.sh)"`
