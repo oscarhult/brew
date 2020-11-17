@@ -79,6 +79,7 @@ if ! grep -q "$zshautosuggestions" ~/.zshrc; then
 fi
 
 brew upgrade
+brew upgrade --cask
 brew cleanup
 
 npm install -g azurite
